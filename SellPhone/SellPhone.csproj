@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6781D8E8-93CA-479B-90EF-09C0D232B02D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SellPhone</RootNamespace>
+    <AssemblyName>SellPhone</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AccountControl.Designer.cs">
+      <DependentUpon>AccountControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddEmpl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddEmpl.Designer.cs">
+      <DependentUpon>AddEmpl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddNCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNCC.Designer.cs">
+      <DependentUpon>AddNCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddType.Designer.cs">
+      <DependentUpon>AddType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BillControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BillControl.Designer.cs">
+      <DependentUpon>BillControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrandControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BrandControl.Designer.cs">
+      <DependentUpon>BrandControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BrandTypeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BrandTypeControl.Designer.cs">
+      <DependentUpon>BrandTypeControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Chart.Designer.cs">
+      <DependentUpon>Chart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBConnecttion.cs" />
+    <Compile Include="EmployeeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeControl.Designer.cs">
+      <DependentUpon>EmployeeControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindBillControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FindBillControl.Designer.cs">
+      <DependentUpon>FindBillControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindImportControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FindImportControl.Designer.cs">
+      <DependentUpon>FindImportControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindPhoneControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FindPhoneControl.Designer.cs">
+      <DependentUpon>FindPhoneControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HDReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HDReport.Designer.cs">
+      <DependentUpon>HDReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InsertPhonee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InsertPhonee.Designer.cs">
+      <DependentUpon>InsertPhonee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InstallmentControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="InstallmentControl.Designer.cs">
+      <DependentUpon>InstallmentControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyNCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyNCC.Designer.cs">
+      <DependentUpon>ModifyNCC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyType.Designer.cs">
+      <DependentUpon>ModifyType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NCCReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NCCReport.Designer.cs">
+      <DependentUpon>NCCReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneCardControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PhoneCardControl.Designer.cs">
+      <DependentUpon>PhoneCardControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneControll.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PhoneControll.Designer.cs">
+      <DependentUpon>PhoneControll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneInBillControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PhoneInBillControl.Designer.cs">
+      <DependentUpon>PhoneInBillControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PNReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PNReport.Designer.cs">
+      <DependentUpon>PNReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QLCHDTDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLCHDTDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="rptHD.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptHD.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptNCC.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptNCC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPN.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptPN.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptSanPham.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptSanPham.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptType.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptType.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SanPhamReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPhamReport.Designer.cs">
+      <DependentUpon>SanPhamReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TypeControl.Designer.cs">
+      <DependentUpon>TypeControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TypeReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TypeReport.Designer.cs">
+      <DependentUpon>TypeReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePhonee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePhonee.Designer.cs">
+      <DependentUpon>UpdatePhonee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewPhoneDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewPhoneDetail.Designer.cs">
+      <DependentUpon>ViewPhoneDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewThuAndChi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ViewThuAndChi.Designer.cs">
+      <DependentUpon>ViewThuAndChi.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccountControl.resx">
+      <DependentUpon>AccountControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddEmpl.resx">
+      <DependentUpon>AddEmpl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddNCC.resx">
+      <DependentUpon>AddNCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddType.resx">
+      <DependentUpon>AddType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BillControl.resx">
+      <DependentUpon>BillControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrandControl.resx">
+      <DependentUpon>BrandControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrandTypeControl.resx">
+      <DependentUpon>BrandTypeControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chart.resx">
+      <DependentUpon>Chart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeControl.resx">
+      <DependentUpon>EmployeeControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindBillControl.resx">
+      <DependentUpon>FindBillControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindImportControl.resx">
+      <DependentUpon>FindImportControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindPhoneControl.resx">
+      <DependentUpon>FindPhoneControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HDReport.resx">
+      <DependentUpon>HDReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InsertPhonee.resx">
+      <DependentUpon>InsertPhonee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InstallmentControl.resx">
+      <DependentUpon>InstallmentControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyNCC.resx">
+      <DependentUpon>ModifyNCC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyType.resx">
+      <DependentUpon>ModifyType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NCCReport.resx">
+      <DependentUpon>NCCReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneCardControl.resx">
+      <DependentUpon>PhoneCardControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneControll.resx">
+      <DependentUpon>PhoneControll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneInBillControl.resx">
+      <DependentUpon>PhoneInBillControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PNReport.resx">
+      <DependentUpon>PNReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rptHD.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptHD.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptNCC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptNCC.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPN.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptPN.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptSanPham.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptSanPham.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptType.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptType.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanPhamReport.resx">
+      <DependentUpon>SanPhamReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeControl.resx">
+      <DependentUpon>TypeControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TypeReport.resx">
+      <DependentUpon>TypeReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePhonee.resx">
+      <DependentUpon>UpdatePhonee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewPhoneDetail.resx">
+      <DependentUpon>ViewPhoneDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewThuAndChi.resx">
+      <DependentUpon>ViewThuAndChi.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QLCHDTDataSet.xsc">
+      <DependentUpon>QLCHDTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLCHDTDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLCHDTDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLCHDTDataSet.xss">
+      <DependentUpon>QLCHDTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\6u2ywY.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-document.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\call.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\freelancer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invoice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom-in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business-report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\snapedit_1699004990344.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diskette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OIP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-menu-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-shopping-cart-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-shopping-bag-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-smartphone-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-employee-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-account-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-slice-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-search-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-document-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-address-book-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-bill-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-fund-accounting-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-restart-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business-report1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business-report2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,384 @@
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\SellPhone.exe.config
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\SellPhone.exe
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\SellPhone.pdb
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.AssemblyReference.cache
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.SuggestedBindingRedirects.cache
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.Properties.Resources.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.GenerateResource.cache
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.CoreCompileInputs.cache
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.exe
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.pdb
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.Admin.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.BrandControl.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.BrandTypeControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\bin\Debug\SellPhone.exe.config
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\bin\Debug\SellPhone.exe
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\bin\Debug\SellPhone.pdb
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.AssemblyReference.cache
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.Admin.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.BrandControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.BrandTypeControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.FindPhoneControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.Properties.Resources.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.GenerateResource.cache
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.exe
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.pdb
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.FindImportControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.FindBillControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.ViewThuAndChi.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneControll.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.InsertPhonee.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.UpdatePhonee.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.AddEmpl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.EmployeeControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.BillControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.AddEmploy.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.TypeControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.AddNCC.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyNCC.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.AddType.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Project Final\Project\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyType.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\bin\Debug\SellPhone.exe.config
+E:\HOCTAP\SQL\SellPhone\SellPhone\bin\Debug\SellPhone.exe
+E:\HOCTAP\SQL\SellPhone\SellPhone\bin\Debug\SellPhone.pdb
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.AssemblyReference.cache
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.SuggestedBindingRedirects.cache
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.AddEmpl.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.AddEmploy.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.AddNCC.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.AddType.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.Admin.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.BillControl.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.BrandControl.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.BrandTypeControl.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.EmployeeControl.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.FindBillControl.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.FindImportControl.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.FindPhoneControl.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.InsertPhonee.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyNCC.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyType.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneControll.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.Properties.Resources.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.TypeControl.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.UpdatePhonee.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.ViewThuAndChi.resources
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.GenerateResource.cache
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.CoreCompileInputs.cache
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.exe
+E:\HOCTAP\SQL\SellPhone\SellPhone\obj\Debug\SellPhone.pdb
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\bin\Debug\SellPhone.exe.config
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\bin\Debug\SellPhone.exe
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\bin\Debug\SellPhone.pdb
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.AssemblyReference.cache
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.AddEmpl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.AddEmploy.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.AddNCC.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.AddType.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.Admin.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.BillControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.BrandControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.BrandTypeControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.EmployeeControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.FindBillControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.FindImportControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.FindPhoneControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.InsertPhonee.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyNCC.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyType.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneControll.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.Properties.Resources.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.TypeControl.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.UpdatePhonee.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.ViewThuAndChi.resources
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.GenerateResource.cache
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.exe
+D:\UNIVERSITY\2023_2024\HeQuanTriCSDL\ĐỒ ÁN\Final\SellPhone\SellPhone\obj\Debug\SellPhone.pdb
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.AddEmpl.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.AddNCC.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.AddType.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.BillControl.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.EmployeeControl.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.FindBillControl.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.FindImportControl.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.FindPhoneControl.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.InsertPhonee.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyNCC.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyType.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneControll.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.TypeControl.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.UpdatePhonee.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.ViewThuAndChi.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.InstallmentControl.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.Login.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneCardControl.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.User.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.ViewPhoneDetail.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneInBillControl.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.AccountControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\bin\Debug\SellPhone.exe.config
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\bin\Debug\SellPhone.exe
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\bin\Debug\SellPhone.pdb
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.csproj.AssemblyReference.cache
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.AccountControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.AddEmpl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.AddNCC.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.AddType.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.Admin.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.BillControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.BrandControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.BrandTypeControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.EmployeeControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.FindBillControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.FindImportControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.FindPhoneControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.InsertPhonee.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.InstallmentControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.Login.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.ModifyNCC.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.ModifyType.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.PhoneCardControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.PhoneControll.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.PhoneInBillControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.Properties.Resources.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.TypeControl.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.UpdatePhonee.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.User.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.ViewPhoneDetail.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.ViewThuAndChi.resources
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.csproj.GenerateResource.cache
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.csproj.CoreCompileInputs.cache
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.exe
+D:\Materials\HK1_NAM3\HỆ QTCSDL\Project_SellPhone\SellPhone (5)\SellPhone\obj\Debug\SellPhone.pdb
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\bin\Debug\SellPhone.exe.config
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\bin\Debug\SellPhone.exe
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\bin\Debug\SellPhone.pdb
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.csproj.AssemblyReference.cache
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.AccountControl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.AddEmpl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.AddNCC.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.AddType.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.Admin.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.BillControl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.BrandControl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.BrandTypeControl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.EmployeeControl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.FindBillControl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.FindImportControl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.FindPhoneControl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.InsertPhonee.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.InstallmentControl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.Login.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.ModifyNCC.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.ModifyType.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.PhoneCardControl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.PhoneControll.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.PhoneInBillControl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.Properties.Resources.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.TypeControl.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.UpdatePhonee.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.User.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.ViewPhoneDetail.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.ViewThuAndChi.resources
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.csproj.GenerateResource.cache
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.csproj.CoreCompileInputs.cache
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.exe
+D:\Materials\HK1_NAM3\LẬP TRÌNH WINDOWS\Project\SellPhone (7)\SellPhone\obj\Debug\SellPhone.pdb
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.Shared.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\stdole.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.CopyComplete
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.NCCReport.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.TypeReport.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.SanPhamReport.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.PNReport.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.HDReport.resources
+E:\HOCTAP\SQL\Project\SellPhone\SellPhone\obj\Debug\SellPhone.Chart.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\SellPhone.exe.config
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\SellPhone.exe
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\SellPhone.pdb
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.Shared.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\bin\Debug\stdole.dll
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.AssemblyReference.cache
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.SuggestedBindingRedirects.cache
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.AccountControl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.AddEmpl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.AddNCC.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.AddType.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.Admin.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.BillControl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.BrandControl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.BrandTypeControl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.Chart.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.EmployeeControl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.FindBillControl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.FindImportControl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.FindPhoneControl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.HDReport.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.InsertPhonee.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.InstallmentControl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.Login.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyNCC.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyType.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.NCCReport.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneCardControl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneControll.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneInBillControl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.PNReport.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.Properties.Resources.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.SanPhamReport.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.TypeControl.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.TypeReport.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.UpdatePhonee.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.User.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.ViewPhoneDetail.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.ViewThuAndChi.resources
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.GenerateResource.cache
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.CoreCompileInputs.cache
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.CopyComplete
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.exe
+E:\HOCTAP\Winform\Project\SellPhone\SellPhone\obj\Debug\SellPhone.pdb
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\SellPhone.exe.config
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\SellPhone.exe
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\SellPhone.pdb
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.Shared.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\bin\Debug\stdole.dll
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.AssemblyReference.cache
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.SuggestedBindingRedirects.cache
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.AccountControl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.AddEmpl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.AddNCC.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.AddType.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.Admin.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.BillControl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.BrandControl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.BrandTypeControl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.Chart.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.EmployeeControl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.FindBillControl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.FindImportControl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.FindPhoneControl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.HDReport.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.InsertPhonee.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.InstallmentControl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.Login.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyNCC.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyType.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.NCCReport.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneCardControl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneControll.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneInBillControl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.PNReport.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.Properties.Resources.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.SanPhamReport.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.TypeControl.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.TypeReport.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.UpdatePhonee.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.User.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.ViewPhoneDetail.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.ViewThuAndChi.resources
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.GenerateResource.cache
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.CoreCompileInputs.cache
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.CopyComplete
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.exe
+E:\HOCTAP\Winform\Nhom6\SellPhone\SellPhone\obj\Debug\SellPhone.pdb
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\SellPhone.exe.config
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\SellPhone.exe
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\SellPhone.pdb
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\bin\Debug\stdole.dll
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.AssemblyReference.cache
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.AccountControl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.AddEmpl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.AddNCC.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.AddType.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.Admin.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.BillControl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.BrandControl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.BrandTypeControl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.Chart.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.EmployeeControl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.FindBillControl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.FindImportControl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.FindPhoneControl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.HDReport.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.InsertPhonee.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.InstallmentControl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.Login.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyNCC.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.ModifyType.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.NCCReport.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneCardControl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneControll.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.PhoneInBillControl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.PNReport.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.Properties.Resources.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.SanPhamReport.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.TypeControl.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.TypeReport.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.UpdatePhonee.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.User.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.ViewPhoneDetail.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.ViewThuAndChi.resources
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.GenerateResource.cache
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.CoreCompileInputs.cache
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.csproj.CopyComplete
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.exe
+D:\Nam3\LapTrinhWinForm\CuoiKy\SellPhone\SellPhone\obj\Debug\SellPhone.pdb
